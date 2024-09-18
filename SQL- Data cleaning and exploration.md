@@ -1,4 +1,5 @@
---              CREATING NEW TABLE SO WE DO NOT WORK ON RAW DATA
+```
+--              CREATING NEW TABLE 
 SELECT*
 FROM layoffs;
 
@@ -189,7 +190,7 @@ SELECT *
 FROM Top_5_companies
 WHERE Ranking < 6
 
-
+```
 
 
 
