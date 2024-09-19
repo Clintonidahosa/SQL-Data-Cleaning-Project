@@ -1,5 +1,6 @@
+# DATA CLEANING 
 ```
---              CREATING NEW TABLE 
+--              DUPLICATING TABLE 
 SELECT*
 FROM layoffs;
 
@@ -106,8 +107,11 @@ DROP COLUMN row_num;
 
 SELECT *
 FROM layoffs_staging2;
+```
 
--- 					EXPLORATORY DATA ANALYSIS
+
+# EXPLORATORY DATA ANALYSIS
+```
 SELECT *
 FROM layoffs_staging2;
 
