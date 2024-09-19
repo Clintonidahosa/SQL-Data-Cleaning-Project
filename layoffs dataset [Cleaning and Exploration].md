@@ -110,7 +110,7 @@ FROM layoffs_staging2;
 ```
 
 
-# EXPLORATORY DATA ANALYSIS
+# DATA EXPLORATION
 ```
 SELECT *
 FROM layoffs_staging2;
